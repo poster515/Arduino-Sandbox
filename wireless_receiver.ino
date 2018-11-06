@@ -124,7 +124,7 @@ void loop()   /****** LOOP: RUNS CONSTANTLY ******/
     }
     else {
       lcd.clear();
-      lcd.print("Sorry nigga");
+      lcd.print("Sorry home boy");
     }
   }
 }//--(end main loop )---
