@@ -1,10 +1,4 @@
-/* YourDuinoStarter Example: nRF24L01 Receive Joystick values
-
- - WHAT IT DOES: Receives data from another transceiver with
-   2 Analog values from a Joystick or 2 Potentiometers
-   Displays received values on Serial Monitor
- - SEE the comments after "//" on each line below
- - CONNECTIONS: nRF24L01 Modules See:
+/* CONNECTIONS: nRF24L01 Modules See:
  http://arduino-info.wikispaces.com/Nrf24L01-2.4GHz-HowTo
    1 - GND
    2 - VCC 3.3V !!! NOT 5V
